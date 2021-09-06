@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\PRA1\bin\Debug\PRA1.exe.config
+C:\Users\alexi\source\repos\PRA1\bin\Debug\PRA1.exe
+C:\Users\alexi\source\repos\PRA1\bin\Debug\PRA1.pdb
+C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.exe
+C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.pdb
