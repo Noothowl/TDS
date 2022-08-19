@@ -1,0 +1,7 @@
+C:\Users\labinf\source\repos\Semana1\Semana1\bin\Debug\Semana1.exe.config
+C:\Users\labinf\source\repos\Semana1\Semana1\bin\Debug\Semana1.exe
+C:\Users\labinf\source\repos\Semana1\Semana1\bin\Debug\Semana1.pdb
+C:\Users\labinf\source\repos\Semana1\Semana1\obj\Debug\Semana1.csprojAssemblyReference.cache
+C:\Users\labinf\source\repos\Semana1\Semana1\obj\Debug\Semana1.csproj.CoreCompileInputs.cache
+C:\Users\labinf\source\repos\Semana1\Semana1\obj\Debug\Semana1.exe
+C:\Users\labinf\source\repos\Semana1\Semana1\obj\Debug\Semana1.pdb
