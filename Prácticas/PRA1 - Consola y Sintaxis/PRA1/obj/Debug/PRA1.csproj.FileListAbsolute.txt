@@ -5,3 +5,10 @@ C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.csproj.AssemblyReference.cache
 C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.csproj.CoreCompileInputs.cache
 C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.exe
 C:\Users\alexi\source\repos\PRA1\obj\Debug\PRA1.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\bin\Debug\PRA1.exe.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\bin\Debug\PRA1.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\bin\Debug\PRA1.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\obj\Debug\PRA1.csprojAssemblyReference.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\obj\Debug\PRA1.csproj.CoreCompileInputs.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\obj\Debug\PRA1.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\EIN143A\Prácticas\PRA1\PRA1\obj\Debug\PRA1.pdb

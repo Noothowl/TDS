@@ -30,8 +30,34 @@ namespace PRA1._6
             ImprimirPares(numero);
             Console.Write("\nImpares: ");
             ImprimirImpares(numero);
+            Console.Write("\nPrimos: ");
+            ImprimirPrimos(numero);
 
             Console.ReadKey();
+        }
+
+        private static void ImprimirPrimos(int numero)
+        {
+            int x = 1,i=0;
+            bool esPrimo;
+           do{
+                esPrimo = true;
+                for (int j = 2; j < x-1; j++)
+                {
+                    if (x%j == 0)
+                    {
+                        esPrimo = false;
+                    }
+                }
+
+                if (esPrimo)
+                {
+                    Console.Write(x+" ");
+                    i++;
+                }
+                x++;
+
+            }while(i<numero);
         }
 
         private static void ImprimirImpares(int numero)
