@@ -56,7 +56,9 @@ namespace PRA2_Matrices
                     case 3:
                         if (matrizCreada)
                         {
+                            Console.WriteLine("Matriz Generada: ");
                             ImprimirMatriz(matriz);
+                            Console.ReadKey();
                         }
                         else
                         {
@@ -67,7 +69,8 @@ namespace PRA2_Matrices
                     case 4:
                         if (matrizCreada)
                         {
-
+                            ImprimirMatrizDiagonales(matriz);
+                            Console.ReadKey();
                         }
                         else
                         {
@@ -83,6 +86,28 @@ namespace PRA2_Matrices
                 }
 
             } while (op != 5);
+        }
+
+        private static void ImprimirMatrizDiagonales(int[,] matriz)
+        {
+            for (int f = 0; f < matriz.GetLength(0); f++)
+            {
+                for (int c = 0; c < matriz.GetLength(1); c++)
+                {
+                    if (f==c ||   f + c == matriz.GetLength(0)-1 )
+                    {
+                        Console.ForegroundColor = ConsoleColor.Cyan;
+                    }
+                    else
+                    {
+                        Console.ResetColor()
+                            ;
+                    }
+
+                    Console.Write(matriz[f, c] + " ");
+                }
+                Console.WriteLine();
+            }
         }
 
         private static void ImprimirMatriz(int[,] matriz)
